@@ -1,4 +1,4 @@
-# RL_Homework-2
+# Control a manipulator to follow a trajectory
 
 ## :hammer: Build
 
