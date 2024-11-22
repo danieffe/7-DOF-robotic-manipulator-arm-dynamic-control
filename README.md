@@ -12,7 +12,7 @@ $ rosdep install -i --from-path src --rosdistro humble -y
 Build your new package
 
 ```
-$ colcon build --packages-select RL_Homework-2
+$ colcon build --packages-select 7-DOF-robotic-manipulator-arm-dynamic-control
 ```
 Source the setup files
 
